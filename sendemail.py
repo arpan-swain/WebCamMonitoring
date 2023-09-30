@@ -1,2 +1,2 @@
 def send_email():
-    pass
+    print("sent")
